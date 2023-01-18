@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAQA,OAAO,CAAC,sGAAI;AAEZ,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,CAAC,EAAC,CAAC,AAAA,QAAQ,EAAE,CAAC,AAAA,OAAO,CAAC;EAClB,UAAU,EAAE,OAAO;CACtB",
+    "sources": [
+        "generalize.scss"
+    ],
+    "names": [],
+    "file": "generalize.css"
+}

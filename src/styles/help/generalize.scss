@@ -1,0 +1,21 @@
+// Vars
+$color-font-blue: #21248C;
+$color-blue-hover: #181955;
+$color-font-white: #FAFAFA;
+$color-btn: #E55F6A;
+$color-background: #181955;
+
+// IMPORTS
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;0,900;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    box-sizing: border-box;
+}
+*,*::before, *::after {
+    box-sizing: inherit;
+}
